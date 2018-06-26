@@ -1,6 +1,8 @@
 ﻿  main.cpp
-c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\quadrenderer.h(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\quadrenderer.h(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(105): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   CopyCraft.vcxproj -> C:\Users\Morten\Documents\Programmering\C++\CopyCraft\Debug\CopyCraft.exe

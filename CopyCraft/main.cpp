@@ -5,7 +5,7 @@
 #include "Camera.h"
 
 // Global Program Settings
-const unsigned int SCR_WIDTH = 800;
+const unsigned int SCR_WIDTH  = 600;
 const unsigned int SCR_HEIGHT = 600;
 
 float lastFrame = 0.0f;
@@ -69,7 +69,7 @@ int main()
 		processInput(window);
 
 		// TODO: Should be able to render multiple cubes
-		quadRenderer.render(glm::vec3(0.0f, 0.0f, 0.0f));
+		quadRenderer.render();
 
 		glfwSwapBuffers(window);
 		glfwPollEvents();
