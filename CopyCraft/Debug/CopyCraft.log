@@ -1,2 +1,6 @@
 ﻿  main.cpp
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morten\documents\programmering\c++\copycraft\copycraft\main.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   CopyCraft.vcxproj -> C:\Users\Morten\Documents\Programmering\C++\CopyCraft\Debug\CopyCraft.exe
